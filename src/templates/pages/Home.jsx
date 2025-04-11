@@ -1,5 +1,5 @@
 import React from 'react'
-import { Helmet } from 'react-helmet-async'
+import { Helmet } from 'react-helmet'
 import Hero from '../../components/sections/Hero'
 import LogoTicker from '../../components/sections/LogoTicker'
 import WhyChooseUs from '../../components/sections/WhyChooseUs'
