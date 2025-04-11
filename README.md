@@ -19,7 +19,7 @@ npm run dev
 
 
 
-## Project Structure
+## Project Structures
 .
 ├── public/
 │   ├── assets/
